@@ -14,9 +14,60 @@ In the realm of **Data Engineering and Analytics**, I excel in building and mana
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300b300.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/purvend0hz9)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/purvendra1969/)
 
+# 💻 Tech Stack
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ffdb00.svg?style=flat-square&logo=mathworks&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+
+## Cloud Services
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=flat-square&logo=amazon-ec2&logoColor=black)
+![S3](https://img.shields.io/badge/S3-%23569A31.svg?style=flat-square&logo=amazon-s3&logoColor=white)
+![Amazon Glue](https://img.shields.io/badge/Amazon_Glue-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-%231674B1.svg?style=flat-square&logo=amazon-athena&logoColor=white)
+
+## Big Data Technologies
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-%2366CCFF.svg?style=flat-square&logo=apache-hadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-%23FDEE21.svg?style=flat-square&logo=apache-hive&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-%23017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-%23E6526F.svg?style=flat-square&logo=apache-flink&logoColor=white)
+
+## Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat-square&logo=mariadb&logoColor=white)
+
+## Analytics and Visualization Tools
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=flat-square&logo=power-bi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+
+## Libraries and Frameworks
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23150458.svg?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+
+## DevOps and Version Control
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+## Miscellaneous
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=purvendra1969&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
