@@ -6,8 +6,8 @@ In the realm of **Data Engineering and Analytics**, I excel in building and mana
 
 </td>
     <!-- Right Column for GIF -->
-    <td valign="top" width="50%">
-      <img src="https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif" align="right" width="50%" />
+    <td valign="top" width="30%">
+      <img src="https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif" align="right" width="30%" />
     </td>
   </tr>
 </table>
