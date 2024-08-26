@@ -1,12 +1,11 @@
-![Trading GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
-
 # 🌟 About Me:
 
 🔭 I am a **Quantitative Trading Researcher** and **Data Engineer** with over three years of experience in the **Indian financial markets**. I specialize in **algorithmic trading, backtesting, technical analysis**, and **risk management**, with a proven track record at **WorldQuant** in developing **Alpha quant models** and **long-short low-risk strategies**.
 
 In the realm of **Data Engineering and Analytics**, I excel in building and managing **real-time data pipelines** with technologies including **AWS, Apache Kafka, Python**, and **SQL**. My expertise covers cloud services like **Amazon EC2, S3, Glue, Athena**, and big data tools such as **Hadoop, Spark, and Hive**. Proficient in **machine learning and statistics**, I am adept at creating dynamic dashboards using **Tableau and Power BI**, ensuring robust data integration, warehousing, and ETL processes.
 
----
+![Trading GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
+
 
 
 
