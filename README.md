@@ -4,7 +4,13 @@
 
 In the realm of **Data Engineering and Analytics**, I excel in building and managing **real-time data pipelines** with technologies including **AWS, Apache Kafka, Python**, and **SQL**. My expertise covers cloud services like **Amazon EC2, S3, Glue, Athena**, and big data tools such as **Hadoop, Spark, and Hive**. Proficient in **machine learning and statistics**, I am adept at creating dynamic dashboards using **Tableau and Power BI**, ensuring robust data integration, warehousing, and ETL processes.
 
-![Trading GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
+  </td>
+    <!-- Right Column for GIF -->
+    <td valign="top" width="50%">
+      <img src="https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif" align="right" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 
