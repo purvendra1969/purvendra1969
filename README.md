@@ -16,7 +16,7 @@ In the realm of **Data Engineering and Analytics**, I excel in building and mana
 
 # 💻 Tech Stack
 
-## Languages
+
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
@@ -24,14 +24,12 @@ In the realm of **Data Engineering and Analytics**, I excel in building and mana
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 
-## Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=flat-square&logo=amazon-ec2&logoColor=black)
 ![S3](https://img.shields.io/badge/S3-%23569A31.svg?style=flat-square&logo=amazon-s3&logoColor=white)
 ![Amazon Glue](https://img.shields.io/badge/Amazon_Glue-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Athena](https://img.shields.io/badge/Athena-%231674B1.svg?style=flat-square&logo=amazon-athena&logoColor=white)
 
-## Big Data Technologies
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-%2366CCFF.svg?style=flat-square&logo=apache-hadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)
@@ -39,32 +37,27 @@ In the realm of **Data Engineering and Analytics**, I excel in building and mana
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-%23017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache_Flink-%23E6526F.svg?style=flat-square&logo=apache-flink&logoColor=white)
 
-## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=flat-square&logo=mariadb&logoColor=white)
 
-## Analytics and Visualization Tools
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=flat-square&logo=power-bi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
-## Libraries and Frameworks
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23150458.svg?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
 
-## DevOps and Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-## Miscellaneous
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
