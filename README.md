@@ -1,3 +1,4 @@
+![Trading GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif)
 
 # 🌟 About Me:
 
